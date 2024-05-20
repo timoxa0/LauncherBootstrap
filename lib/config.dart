@@ -1,6 +1,6 @@
 class Config {
   static final Uri launcherJarUrl =
-      Uri.parse('https://your-project-site.ru/path/to/launcher.jar');
+      Uri.parse('https://mc.timoxa0.su/NPL.jar');
 
-  static final String projectDirectoryName = 'your-project-dir-name';
+  static final String projectDirectoryName = 'NP';
 }
